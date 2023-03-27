@@ -33,6 +33,7 @@
                     <div class="title">收件人資訊</div>
                     <ul>
                         <li><span>購買人</span><strong>楊冠瑩</strong></li>
+
                         <li><span>性別</span><strong>女</strong></li>
                         <li><span>電話</span><strong>04 3707 1105</strong></li>
                         <li><span>E-mail</span><strong>julia@authma.com.tw</strong></li>
@@ -47,4 +48,5 @@
     </div>
     <?php include "include/footer.php"; ?>
 </body>
+
 </html>
